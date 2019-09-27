@@ -1,2 +1,0 @@
-#include mian.c
-printf("hello world\c");
